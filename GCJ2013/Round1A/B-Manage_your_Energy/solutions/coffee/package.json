@@ -1,0 +1,8 @@
+{
+  "name": "GCJ_2013_R1A_B-Manage_your_Energy",
+  "version": "0.0.1",
+  
+  "dependencies": {
+    "underscore": "*"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "GCJ_2013_QRound_A-problem",
+  "version": "0.0.1",
+  
+  "dependencies": {
+    "underscore": "*"
+  }
+}
